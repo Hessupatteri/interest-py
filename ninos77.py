@@ -10,8 +10,8 @@ print("   ++-------------------++")
 print("  ++-----------------------++\n")
 
 #Ask user to input year,interest,capital amount
-year = float(input("How many years you want to save? "))
-intrest = float(input("What interest rate do you have? "))
+year = int(input("How many years you want to save? "))
+intrest = int(input("What interest rate do you have? "))
 capital = float(input('The amount you want to save? '))
 
 #Create empty lists
