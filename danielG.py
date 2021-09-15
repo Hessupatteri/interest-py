@@ -1,3 +1,5 @@
+# Orginal code written by Markus Sköld
+
 # Welcome message.
 print("Welcome, i can help you to calculate your rate and total money")
 
